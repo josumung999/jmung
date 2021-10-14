@@ -44,6 +44,8 @@ const Timeline = () => {
 
   return (
     <Section id="about">
+      <br />
+      <SectionDivider />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         I fell in love with the Software Development world in 2016.
@@ -114,7 +116,6 @@ const Timeline = () => {
           </CarouselButton>
         ))}
       </CarouselButtons>
-      <SectionDivider />
     </Section>
   );
 };

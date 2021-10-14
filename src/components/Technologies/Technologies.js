@@ -19,7 +19,10 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js <br />
+            Styled Components <br />
+            Material UI <br />
+            Apollo Client
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,7 +32,10 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node.js/Express <br />
+            Apollo Server<br />
+            Mongo DB <br />
+            PostGreSQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -39,7 +45,10 @@ const Technologies = () =>  (
           <ListTitle>DevOps</ListTitle>
           <ListParagraph>
             Experience with <br />
-            AWS, Heroku, CI/CD
+            CI/CD <br />
+            AWS <br />
+            Heroku <br />
+            Git
           </ListParagraph>
         </ListContainer>
       </ListItem>
