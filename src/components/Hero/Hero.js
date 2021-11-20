@@ -12,9 +12,9 @@ const Hero = () => (
         I'm Joshua
       </SectionTitle>
       <SectionText>
-        JavaScript Software Engineer, aiming to build computer based solutions to real life problems
+        Full Stack Software Engineer, aiming to build computer based solutions to real life problems
       </SectionText>
-      <Button onClick={() => window.Location = 'https://kivumakers.com'}>Learn More</Button>
+      <Button onClick={() => window.Location = 'https://github.com/josumung999'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
