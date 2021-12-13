@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Covid 19 Tracker App',
-    description: "A Simple Covid 19 Tracker App built using React.js, Material UI and ChartJS 2.",
-      image: '/images/Covid-19.png',
-      tags: ['React', 'Material UI', 'Chart js', 'API Data'],
-    source: 'https://github.com/josumung999/traceur-covid-19/',
-    visit: 'https://traceur-covid-19.netlify.app',
+    title: 'Fyatu UI',
+    description: "A Clone of the official Landing page of Fyatu.com built with React.js, Bootstrap and SASS.",
+      image: '/images/fyatu.jpg',
+      tags: ['React', 'Bootstrap', 'SASS',],
+    source: 'https://github.com/josumung999/fyatu-ui',
+    visit: 'https://fyatu-ui-react.netlify.app',
     id: 0,
   },
   {
