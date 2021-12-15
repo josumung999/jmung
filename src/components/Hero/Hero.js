@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
@@ -14,7 +15,9 @@ const Hero = () => (
       <SectionText>
         Full Stack Software Engineer, aiming to build computer based solutions to real life problems
       </SectionText>
-      <Button onClick={() => window.Location = 'https://github.com/josumung999'}>Learn More</Button>
+      <Link href='./resume/Josue-Munganga.pdf' target='blank'>
+        <Button>My Resume</Button>
+      </Link>
     </LeftSection>
   </Section>
 );
