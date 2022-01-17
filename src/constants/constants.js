@@ -18,11 +18,11 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Cité de Refuge',
-    description: "A WordPress Website for Non Profit and church organizations",
-    image: '/images/citederefuge.png',
-    tags: ['Wordpress', 'Apache', 'MySQL'],
-    source: 'https://www.citederefuge.com',
+    title: 'Go REST',
+    description: "A Basic User Interface for the GO REST API built with react and boostrap",
+    image: '/images/go-rest.jpg',
+    tags: ['React', 'Bootstrap', 'Axios', 'REST API'],
+    source: 'https://github.com/josumung999/react-go-rest',
     visit: 'https://www.citederefuge.com',
     id: 2,
   }
