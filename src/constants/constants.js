@@ -23,7 +23,7 @@ export const projects = [
     image: '/images/go-rest.jpg',
     tags: ['React', 'Bootstrap', 'Axios', 'REST API'],
     source: 'https://github.com/josumung999/react-go-rest',
-    visit: 'https://www.citederefuge.com',
+    visit: 'https://react-gorest.netlify.app/',
     id: 2,
   }
 ];
