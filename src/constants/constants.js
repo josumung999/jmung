@@ -2,11 +2,20 @@ export const projects = [
   {
     title: 'Fyatu UI',
     description: "A Clone of the official Landing page of Fyatu.com built with React.js, Bootstrap and SASS.",
-      image: '/images/fyatu.jpg',
-      tags: ['React', 'Bootstrap', 'SASS',],
+    image: '/images/fyatu.jpg',
+    tags: ['React', 'Bootstrap', 'SASS',],
     source: 'https://github.com/josumung999/fyatu-ui',
     visit: 'https://fyatu-ui-react.netlify.app',
     id: 0,
+  },
+  {
+    title: "Victim's Hope DRC",
+    description: "A Non-Profit Website built using Next.js, Tailwindcss and Styled-Components. Using the best SEO techniques; Contact form using Sendgrid and Google Recaptcha",
+    image: '/images/victimshope.jpg',
+    tags: ['Next.js', 'Tailwindcss', 'styled-components'],
+    source: 'https://www.victimshopedrc.org',
+    visit: 'https://www.victimshopedrc.org',
+    id: 6,
   },
   {
     title: 'AfroDevs',
@@ -34,4 +43,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Co founded Nuru Genius Corporation', },
   { year: 2020, text: 'Built websites and apps for local companies', },
   { year: 2021, text: 'Looking for remote opportunities', },
+  { year: 2022, text: 'Working at Fyatu as an Associate Software Engineer', },
 ];
