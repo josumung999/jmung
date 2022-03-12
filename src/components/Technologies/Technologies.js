@@ -19,10 +19,11 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js <br />
-            Styled Components <br />
-            Material UI <br />
-            Apollo Client
+            React.js/Redux <br />
+            Next.js <br />
+            Tailwindcss <br />
+            Bootstrap <br />
+            SASS/LESS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -33,22 +34,24 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             Node.js/Express <br />
-            Apollo Server<br />
-            Mongo DB <br />
-            PostGreSQL
+            PHP/Codeigniter 4<br />
+            MySQL/PostgreSQL<br />
+            MongoDB <br />
+            REST and GraphQL APIs
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiHeroku size="3rem" />
         <ListContainer>
-          <ListTitle>DevOps</ListTitle>
+          <ListTitle>CI/CD</ListTitle>
           <ListParagraph>
             Experience with <br />
-            CI/CD <br />
+            Heroku<br />
+            Netlify <br />
             AWS <br />
-            Heroku <br />
-            Git
+            Git <br />
+            Github
           </ListParagraph>
         </ListContainer>
       </ListItem>

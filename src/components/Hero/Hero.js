@@ -15,7 +15,7 @@ const Hero = () => (
       <SectionText>
         Full Stack Software Engineer, aiming to build computer based solutions to real life problems
       </SectionText>
-      <Link href='./resume/Josue-Munganga.pdf' target='blank'>
+      <Link href='./resume/Joshua-Resume.pdf' target='blank' rel="noopener noreferrer">
         <Button>My Resume</Button>
       </Link>
     </LeftSection>
