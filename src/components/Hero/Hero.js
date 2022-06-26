@@ -14,13 +14,17 @@ const Hero = () => (
       </SectionTitle>
       <SectionText>
         Full Stack Software Engineer, Skilled in JavaScript and PHP <br />
-        I work with the MERN stack, Laravel, Next.js, Serverless Architecture, MySQL, PostgreSQL <br />
-        <Link href="./resume/Joshua-Munganga.pdf">
-          <small  style={{ color: "#cecece", marginTop: "32px", textDecoration: "underline" }}>
-          <AiOutlineFilePdf /> My Resume
-          </small>
-        </Link>
+        React.js and Redux, Laravel, Node.js/Express, Next.js, MongoDB, MySQL <br />
       </SectionText>
+      <small  style={{ color: "#cecece", fontSize: "14px", marginBottom: "24px", lineHeight:"normal" }}>
+        An introvert guy but comfortable working in team, lead student groups and communities at the University.
+        Also a serial entrepreneur in startups and service based businesses. <br />
+      </small>
+      <Link href="./resume/Joshua-Munganga.pdf" style={{ marginTop: "32px",  }} passHref>
+        <small  style={{ color: "#cecece", textDecoration: "underline" }}>
+          <AiOutlineFilePdf /> My Resume
+        </small>
+      </Link>
     </LeftSection>
   </Section>
 );
